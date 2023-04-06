@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rushiraj7677
-- 👀 I’m interested in Rust
+- 👀 
 - 🌱 I’m currently learning computer science
 - 
 - 📫 How to reach me bhamanirushi2121@gmail.com
